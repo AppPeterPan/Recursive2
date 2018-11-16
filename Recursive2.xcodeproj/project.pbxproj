@@ -22,6 +22,7 @@
 		9B1C8CD4219F25D300389B29 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9B1C8CD7219F25D300389B29 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9B1C8CD9219F25D300389B29 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B1C8CDF219F260D00389B29 /* Recursive.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Recursive.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +55,7 @@
 		9B1C8CCC219F25D200389B29 /* Recursive2 */ = {
 			isa = PBXGroup;
 			children = (
+				9B1C8CDF219F260D00389B29 /* Recursive.playground */,
 				9B1C8CCD219F25D200389B29 /* AppDelegate.swift */,
 				9B1C8CCF219F25D200389B29 /* ViewController.swift */,
 				9B1C8CD1219F25D200389B29 /* Main.storyboard */,
